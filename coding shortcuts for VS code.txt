@@ -1,0 +1,2 @@
+Alt + Shift + down arrow -  copies the current line down below
+Ctrl + / = comments highlighted line(s) of code
